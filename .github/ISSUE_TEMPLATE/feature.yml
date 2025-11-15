@@ -1,22 +1,36 @@
 name: "✨ Feature"
 description: "새로운 기능 추가"
+title: "✨ Feature: [파트명] ... 기능 추가"
 labels: ["feature"]
 body:
   - type: textarea
     attributes:
       label: 📄 설명
       description: 새로운 기능에 대한 설명을 작성해 주세요.
-      placeholder: 자세히 적을수록 좋습니다!
+      value: |
+        아래 예시를 참고해 작성해주세요:
+        - 사용자가 마이페이지에서 프로필 이미지를 변경할 수 있도록 기능 추가
+        - 이미지 업로드, 썸네일 생성, 기본 이미지 설정 기능 포함
     validations:
       required: true
+
   - type: textarea
     attributes:
       label: ✅ 작업할 내용
       description: 할 일을 체크박스 형태로 작성해주세요.
-      placeholder: 최대한 세분화 해서 적어주세요!
+      value: |
+        아래 예시를 참고해 작성해주세요('x'로 체크표시 가능) :
+        - [ ] 프로필 이미지 업로드 UI 구현
+        - [ ] 이미지 리사이즈 처리 로직 추가
     validations:
       required: true
+
   - type: textarea
     attributes:
       label: 🙋🏻 참고 자료
       description: 참고 자료가 있다면 작성해 주세요.
+      value: |
+        예시:
+        - 관련 디자인 시안 링크
+        - 비슷한 서비스의 UX 참고 링크
+        - 참고 사진 첨부
