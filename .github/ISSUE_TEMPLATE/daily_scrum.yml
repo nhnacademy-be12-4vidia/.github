@@ -7,28 +7,37 @@ body:
     attributes:
       label: 고나영
       description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      placeholder: |
+      value: |
         - **어제 한 일**:
+          - 
         - **오늘 할 일**:
+          - 
         - **문제/이슈**:
+          - 
 
   - type: textarea
     attributes:
       label: 나우림
       description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      placeholder: |
+      value: |
         - **어제 한 일**:
+          - 
         - **오늘 할 일**:
+          - 
         - **문제/이슈**:
+          - 
 
   - type: textarea
     attributes:
       label: 정예림
       description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      placeholder: |
+      value: |
         - **어제 한 일**:
+          - 
         - **오늘 할 일**:
+          - 
         - **문제/이슈**:
+          - 
 
   - type: textarea
     attributes:
@@ -36,8 +45,11 @@ body:
       description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
       value: |
         - **어제 한 일**:
+          - 
         - **오늘 할 일**:
+          - 
         - **문제/이슈**:
+          - 
 
   - type: textarea
     attributes:
@@ -45,8 +57,11 @@ body:
       description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
       value: |
         - **어제 한 일**:
+          - 
         - **오늘 할 일**:
+          - 
         - **문제/이슈**:
+          - 
 
   - type: textarea
     attributes:
@@ -54,8 +69,11 @@ body:
       description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
       value: |
         - **어제 한 일**:
+          - 
         - **오늘 할 일**:
+          - 
         - **문제/이슈**:
+          - 
 
   - type: textarea
     attributes:
@@ -63,8 +81,11 @@ body:
       description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
       value: |
         - **어제 한 일**:
+          - 
         - **오늘 할 일**:
+          - 
         - **문제/이슈**:
+          - 
 
   - type: textarea
     attributes:
@@ -72,8 +93,11 @@ body:
       description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
       value: |
         - **어제 한 일**:
+          - 
         - **오늘 할 일**:
+          - 
         - **문제/이슈**:
+          - 
 
   - type: textarea
     attributes:
