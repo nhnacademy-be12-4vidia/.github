@@ -5,103 +5,20 @@ labels: ["scrum"]
 body:
   - type: textarea
     attributes:
-      label: 고나영
-      description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      value: |
-        - **어제 한 일**:
-          - 
-        - **오늘 할 일**:
-          - 
-        - **문제/이슈**:
-          - 
-
-  - type: textarea
-    attributes:
-      label: 나우림
-      description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      value: |
-        - **어제 한 일**:
-          - 
-        - **오늘 할 일**:
-          - 
-        - **문제/이슈**:
-          - 
-
-  - type: textarea
-    attributes:
-      label: 정예림
-      description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      value: |
-        - **어제 한 일**:
-          - 
-        - **오늘 할 일**:
-          - 
-        - **문제/이슈**:
-          - 
-
-  - type: textarea
-    attributes:
-      label: 김성우
-      description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      value: |
-        - **어제 한 일**:
-          - 
-        - **오늘 할 일**:
-          - 
-        - **문제/이슈**:
-          - 
-
-  - type: textarea
-    attributes:
-      label: 김영재
-      description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      value: |
-        - **어제 한 일**:
-          - 
-        - **오늘 할 일**:
-          - 
-        - **문제/이슈**:
-          - 
-
-  - type: textarea
-    attributes:
-      label: 박상민
-      description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      value: |
-        - **어제 한 일**:
-          - 
-        - **오늘 할 일**:
-          - 
-        - **문제/이슈**:
-          - 
-
-  - type: textarea
-    attributes:
-      label: 류지강
-      description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      value: |
-        - **어제 한 일**:
-          - 
-        - **오늘 할 일**:
-          - 
-        - **문제/이슈**:
-          - 
-
-  - type: textarea
-    attributes:
-      label: 배종옥
-      description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
-      value: |
-        - **어제 한 일**:
-          - 
-        - **오늘 할 일**:
-          - 
-        - **문제/이슈**:
-          - 
-
-  - type: textarea
-    attributes:
       label: 📌 공지/공유 사항
       description: 팀 전체에 공유할 사항이 있으면 작성
       value: |
         - 오늘 공유할 내용:
+        
+  - type: textarea
+    attributes:
+      label: 이름
+      description: 어제 한 일, 오늘 할 일, 문제/이슈를 작성
+      value: |
+        - 어제 한 일:
+          - 
+        - 오늘 할 일:
+          - 
+        - 문제/이슈:
+          - 
+
