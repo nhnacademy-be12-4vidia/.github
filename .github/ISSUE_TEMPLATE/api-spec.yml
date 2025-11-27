@@ -25,16 +25,16 @@ body:
   - type: input
     id: function # function 열에 연결
     attributes:
-      label: "기능"
+      label: "function"
       description: "이 API로 구현하려는 핵심 기능을 작성해주세요."
       value: "ex. 로그인 처리"
     validations:
       required: true
 
   - type: dropdown
-    id: method # HTTP Method 열에 연결
+    id: http-method # HTTP Method 열에 연결
     attributes:
-      label: "HTTP Method"
+      label: "http-method"
       description: "사용할 HTTP Method를 선택해주세요."
       options:
         - GET
@@ -46,9 +46,9 @@ body:
       required: true
 
   - type: input
-    id: path # API Path 열에 연결
+    id: api-path # API Path 열에 연결
     attributes:
-      label: "API Path"
+      label: "api-path"
       description: "백엔드 RestController 메서드의 경로를 작성해주세요."
       value: "ex. /api/auth/login, /users/{userId}"
     validations:
@@ -57,7 +57,7 @@ body:
   - type: input
     id: return-type # Return Type 열에 연결
     attributes:
-      label: "Return Type"
+      label: "return-type"
       description: "메서드의 리턴 타입(DTO 또는 기본 타입)을 작성해주세요."
       value: "ex. ResponseEntity<LoginResponse>, String"
     validations:
@@ -71,7 +71,7 @@ body:
   - type: textarea
     id: request-parameter # Request Parameter 열에 연결
     attributes:
-      label: "Request Parameter 명세"
+      label: "request-parameter"
       description: "Path Variable, Header, Query Parameter, Request Body DTO를 모두 이 한 곳에 작성합니다.(필요한것만 작성)"
       value: |
         ### Path Variable
