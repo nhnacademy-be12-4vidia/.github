@@ -12,7 +12,7 @@
 
 | 류지강 | 배종옥 | 박상민 | 정예림 |
 |:---:|:---:|:---:|:---:|
-|<img width="150" src="https://avatars.githubusercontent.com/u/104420236?v=4"/>|<img width="150" src="https://avatars.githubusercontent.com/u/170800055?s=88&v=4"/>|<img width="150" src="https://avatars.githubusercontent.com/u/27434877?s=88&v=4"/>|<img width="150" src="https://avatars.githubusercontent.com/u/133829981?s=88&v=4"/>|
+|<img width="150" src="https://avatars.githubusercontent.com/u/104420236?v=4"/>|<img width="150" src="https://avatars.githubusercontent.com/u/170800055?v=4"/>|<img width="150" src="https://avatars.githubusercontent.com/u/27434877?s=88&v=4"/>|<img width="150" src="https://avatars.githubusercontent.com/u/133829981?s=88&v=4"/>|
 |  |  |  |
 |  |  |  |
 
