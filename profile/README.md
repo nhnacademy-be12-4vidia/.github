@@ -54,6 +54,7 @@
 
 [//]: # (ERD - 수정 중)
 ## ERD (Entity-Relationship Diagram)
+[📎 4VIDIA ERD 구조도](https://www.erdcloud.com/d/RBnydpYKLrRgfjN6t)
 ![아키텍처](img/erd.png)
 
 
