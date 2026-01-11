@@ -52,6 +52,13 @@
 
 
 
+[//]: # (ERD - 수정 중)
+## ERD (Entity-Relationship Diagram)
+![아키텍처](img/erd.png)
+
+
+
+
 [//]: # (사용 기술 - 수정 중)
 ## 🛠️ Tech Stack
 
